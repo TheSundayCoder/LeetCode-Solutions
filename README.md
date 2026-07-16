@@ -1,10 +1,5 @@
-# LeetCode-Solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0009-palindrome-number) |
-<!---LeetCode Topics End-->
+This repository contains my solutions to LeetCode problems in C++. I use it to keep track of my practice and learning.
+
+I will keep updating this repository as I solve more problems.
