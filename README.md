@@ -11,6 +11,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0069-sqrtx](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
