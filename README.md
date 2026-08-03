@@ -33,4 +33,12 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
