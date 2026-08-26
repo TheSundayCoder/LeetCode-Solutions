@@ -19,6 +19,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
