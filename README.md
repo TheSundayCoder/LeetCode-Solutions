@@ -25,6 +25,7 @@ I will keep updating this repository as I solve more problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -58,4 +60,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
