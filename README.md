@@ -64,4 +64,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
