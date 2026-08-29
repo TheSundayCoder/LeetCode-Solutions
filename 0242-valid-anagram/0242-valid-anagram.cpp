@@ -4,13 +4,13 @@ public:
         if(s.length() != t.length()){
             return false;
         }
-        vector<int> freq(26,0);
+        int a[26];
         int count  = 0;
         for(int i = 0; i < s.length() ;i++){
-           freq[s[i] - 'a']++;
-           freq[t[i]  - 'a']--;
+           a[s[i] - 'a']++;
+           a[t[i]  - 'a']--;
         }
-        for(int count : freq){
+        for(int count : a){
             if(count != 0){
                 return false;
             }
