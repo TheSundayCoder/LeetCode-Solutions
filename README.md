@@ -17,6 +17,7 @@ I will keep updating this repository as I solve more problems.
 | [2235-add-two-integers](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0258-add-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Array
 |  |
 | ------- |
