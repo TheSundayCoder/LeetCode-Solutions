@@ -50,11 +50,13 @@ I will keep updating this repository as I solve more problems.
 | [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -106,4 +108,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 <!---LeetCode Topics End-->
