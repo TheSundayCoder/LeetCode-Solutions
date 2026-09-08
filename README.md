@@ -24,6 +24,7 @@ I will keep updating this repository as I solve more problems.
 | [2235-add-two-integers](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -58,6 +59,7 @@ I will keep updating this repository as I solve more problems.
 | [0258-add-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Array
 |  |
