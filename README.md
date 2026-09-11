@@ -16,6 +16,7 @@ I will keep updating this repository as I solve more problems.
 | [0326-power-of-three](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
