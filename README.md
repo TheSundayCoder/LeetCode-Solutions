@@ -77,6 +77,7 @@ I will keep updating this repository as I solve more problems.
 | [0164-maximum-gap](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -155,6 +156,7 @@ I will keep updating this repository as I solve more problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
