@@ -40,6 +40,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0035-search-insert-position](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -210,4 +211,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
