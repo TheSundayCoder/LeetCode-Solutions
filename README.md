@@ -128,6 +128,7 @@ I will keep updating this repository as I solve more problems.
 | [0344-reverse-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 ## Two Pointers
 |  |
 | ------- |
