@@ -20,6 +20,7 @@ I will keep updating this repository as I solve more problems.
 | [0507-perfect-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1154-day-of-the-year](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
@@ -133,6 +134,7 @@ I will keep updating this repository as I solve more problems.
 | [0412-fizz-buzz](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [1154-day-of-the-year](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 ## Two Pointers
 |  |
 | ------- |
