@@ -22,6 +22,7 @@ I will keep updating this repository as I solve more problems.
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -86,6 +87,7 @@ I will keep updating this repository as I solve more problems.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
