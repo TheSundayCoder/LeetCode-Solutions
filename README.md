@@ -47,6 +47,7 @@ I will keep updating this repository as I solve more problems.
 | [0287-find-the-duplicate-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ I will keep updating this repository as I solve more problems.
 | [0495-teemo-attacking](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1051-height-checker) |
