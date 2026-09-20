@@ -101,6 +101,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -139,6 +140,7 @@ I will keep updating this repository as I solve more problems.
 | [0125-valid-palindrome](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0520-detect-capital) |
@@ -190,6 +192,7 @@ I will keep updating this repository as I solve more problems.
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Prefix Sum
@@ -253,4 +256,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
