@@ -100,6 +100,7 @@ I will keep updating this repository as I solve more problems.
 | [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -139,6 +140,7 @@ I will keep updating this repository as I solve more problems.
 | [0520-detect-capital](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
+| [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3498-reverse-degree-of-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -184,6 +186,7 @@ I will keep updating this repository as I solve more problems.
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Prefix Sum
 |  |
