@@ -94,6 +94,7 @@ I will keep updating this repository as I solve more problems.
 | [1051-height-checker](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -110,6 +111,7 @@ I will keep updating this repository as I solve more problems.
 | [0496-next-greater-element-i](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -203,6 +205,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Prefix Sum
 |  |
