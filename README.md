@@ -96,6 +96,7 @@ I will keep updating this repository as I solve more problems.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -195,6 +196,7 @@ I will keep updating this repository as I solve more problems.
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
