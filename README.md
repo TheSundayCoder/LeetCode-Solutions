@@ -10,6 +10,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -61,6 +62,7 @@ I will keep updating this repository as I solve more problems.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
