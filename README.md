@@ -90,6 +90,7 @@ I will keep updating this repository as I solve more problems.
 | [0136-single-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0260-single-number-iii) |
@@ -130,6 +131,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -227,6 +229,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0075-sort-colors](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -243,11 +246,13 @@ I will keep updating this repository as I solve more problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -340,4 +345,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
