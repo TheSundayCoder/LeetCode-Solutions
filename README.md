@@ -120,6 +120,7 @@ I will keep updating this repository as I solve more problems.
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -242,6 +243,7 @@ I will keep updating this repository as I solve more problems.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -258,6 +260,7 @@ I will keep updating this repository as I solve more problems.
 | [1394-find-lucky-integer-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Prefix Sum
 |  |
