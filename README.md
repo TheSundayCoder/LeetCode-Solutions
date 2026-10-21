@@ -30,6 +30,7 @@ I will keep updating this repository as I solve more problems.
 | [1492-the-kth-factor-of-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
