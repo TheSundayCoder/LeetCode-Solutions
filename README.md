@@ -37,6 +37,7 @@ I will keep updating this repository as I solve more problems.
 | [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -182,6 +183,7 @@ I will keep updating this repository as I solve more problems.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## String
 |  |
 | ------- |
