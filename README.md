@@ -206,6 +206,7 @@ I will keep updating this repository as I solve more problems.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
@@ -220,6 +221,7 @@ I will keep updating this repository as I solve more problems.
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1089-duplicate-zeros](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## String Matching
 |  |
