@@ -125,6 +125,7 @@ I will keep updating this repository as I solve more problems.
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -377,4 +378,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
