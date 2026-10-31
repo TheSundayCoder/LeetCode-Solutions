@@ -127,6 +127,7 @@ I will keep updating this repository as I solve more problems.
 | [1512-number-of-good-pairs](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -285,6 +286,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Prime Factorization
