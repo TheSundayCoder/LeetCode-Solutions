@@ -198,6 +198,7 @@ I will keep updating this repository as I solve more problems.
 | [0151-reverse-words-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -223,6 +224,7 @@ I will keep updating this repository as I solve more problems.
 | [0151-reverse-words-in-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1089-duplicate-zeros](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
