@@ -112,6 +112,7 @@ I will keep updating this repository as I solve more problems.
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0896-monotonic-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
