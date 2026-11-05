@@ -62,6 +62,7 @@ I will keep updating this repository as I solve more problems.
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@ I will keep updating this repository as I solve more problems.
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -234,6 +236,7 @@ I will keep updating this repository as I solve more problems.
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1089-duplicate-zeros](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## String Matching
@@ -268,6 +271,7 @@ I will keep updating this repository as I solve more problems.
 | [1051-height-checker](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
