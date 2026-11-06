@@ -13,6 +13,7 @@ I will keep updating this repository as I solve more problems.
 | [0050-powx-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0223-rectangle-area](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -401,4 +402,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
