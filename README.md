@@ -69,6 +69,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -103,6 +104,7 @@ I will keep updating this repository as I solve more problems.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
