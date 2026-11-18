@@ -150,6 +150,7 @@ I will keep updating this repository as I solve more problems.
 | [2126-destroying-asteroids](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -176,6 +177,7 @@ I will keep updating this repository as I solve more problems.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -314,6 +316,7 @@ I will keep updating this repository as I solve more problems.
 | [1512-number-of-good-pairs](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Prefix Sum
 |  |
