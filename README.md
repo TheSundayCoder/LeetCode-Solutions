@@ -118,6 +118,7 @@ I will keep updating this repository as I solve more problems.
 | [0495-teemo-attacking](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -285,6 +286,7 @@ I will keep updating this repository as I solve more problems.
 | [0389-find-the-difference](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -351,6 +353,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
