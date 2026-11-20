@@ -33,6 +33,7 @@ I will keep updating this repository as I solve more problems.
 | [1492-the-kth-factor-of-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -91,6 +92,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0258-add-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -145,6 +147,7 @@ I will keep updating this repository as I solve more problems.
 | [1572-matrix-diagonal-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -420,10 +423,12 @@ I will keep updating this repository as I solve more problems.
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Matrix
 |  |
