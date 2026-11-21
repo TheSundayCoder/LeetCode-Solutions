@@ -145,6 +145,7 @@ I will keep updating this repository as I solve more problems.
 | [1512-number-of-good-pairs](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1629-slowest-key](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1629-slowest-key) |
 | [1732-find-the-highest-altitude](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -238,6 +239,7 @@ I will keep updating this repository as I solve more problems.
 | [1189-maximum-number-of-balloons](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1629-slowest-key](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1629-slowest-key) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
