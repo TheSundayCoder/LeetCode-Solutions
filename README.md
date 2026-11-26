@@ -43,6 +43,7 @@ I will keep updating this repository as I solve more problems.
 | [2469-convert-the-temperature](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -214,6 +215,7 @@ I will keep updating this repository as I solve more problems.
 | [2169-count-operations-to-obtain-zero](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3271-hash-divided-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
+| [3360-stone-removal-game](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
