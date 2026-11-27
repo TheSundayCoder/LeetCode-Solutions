@@ -106,6 +106,7 @@ I will keep updating this repository as I solve more problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -207,6 +208,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
@@ -446,6 +448,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TheSundayCoder/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Geometry
