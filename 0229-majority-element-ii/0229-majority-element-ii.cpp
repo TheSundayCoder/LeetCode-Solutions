@@ -18,12 +18,12 @@ public:
     //             return ans;
 
 
- map<int,int> c;vector<int> ans;
- for(int i = 0 ; i < nums.size() ; i++){
+ unordered_map<int,int> c;vector<int> ans;int n = nums.size();
+ for(int i = 0 ; i < n ; i++){
     c[nums[i]]++;
  }
  for(auto it: c){
-    if(it.second>nums.size()/3){
+    if(it.second>n/3){
       ans.push_back(it.first);
     }
  }
